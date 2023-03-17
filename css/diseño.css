@@ -1,0 +1,46 @@
+body{
+background-color: rgb(81, 196, 196);
+
+}
+h2{
+    text-align: center;
+}
+
+img{
+    width: 240px;
+    height: 490px;
+    display: flex;
+    margin: auto;
+}
+.centrado{
+    margin: 10%;
+}
+
+.barra{
+    text-align: center;
+    background-color: aquamarine;
+}
+a{
+    color: black;
+}
+
+.inicio{
+    text-align: center;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    border: 10px;
+    padding: 10px 30px ;
+    background-color: #e4e4ec;
+    text-decoration: none;
+    position: relative;
+    margin: 10px;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid
+}
+h2{
+    color: red;
+}
